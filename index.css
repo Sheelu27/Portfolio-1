@@ -115,3 +115,8 @@ div span {
 .about-content .profession {
   color: whitesmoke !important;
 }
+
+.bg {
+  background-color: #252934;
+  background-image: linear-gradient(315deg, #79b4cd 0%, #252934 74%);
+}
